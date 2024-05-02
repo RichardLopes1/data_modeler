@@ -14,13 +14,17 @@
 <display>false</display>
 <notation>1</notation>
 <objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="038D2412-64ED-A5A0-F94D-81E4F8A819CA" otype="Entity" vid="DFC451E0-B4D8-A20C-0A1A-BE7C0CD73FDD">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="116" y="190" width="217" height="45"/>
+</OView>
 <OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="2538C932-65D4-FCE8-9843-B7680B8BAD62" otype="Entity" vid="3E99A5E0-D15A-043D-10A9-574480EA66F6">
 <hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
 <bounds x="88" y="51" width="255" height="115"/>
 </OView>
-<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="DE8A495F-8005-8C01-F9EC-6B340A12F80A" otype="Entity" vid="9F5E038F-B3AF-4B16-1E19-328C1B9A40B3">
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="5F450ABD-884A-E3C0-7E21-16FA349C1005" otype="Entity" vid="9DDE8631-3AF6-D3B8-9A0E-7FA4A4ED7C89">
 <hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
-<bounds x="85" y="196" width="289" height="118"/>
+<bounds x="416" y="134" width="186" height="80"/>
 </OView>
 </objectViews>
 </Diagram>
