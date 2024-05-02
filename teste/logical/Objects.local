@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="2538C932-65D4-FCE8-9843-B7680B8BAD62" name="Entity_1" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="525C4B6C-0AD9-1A8F-FAE8-B1292AAA3EB9" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="DE8A495F-8005-8C01-F9EC-6B340A12F80A" name="" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>
